@@ -1,10 +1,8 @@
 # Sketching and Prototyping
-Using the information in the results of Assignment 1 for what is good and bad about the UI for designed tasks, we are going to make **Sketches** and **Prototypes**. These sketches and prototypes will lead to better design in Assignment 3. The prototypes will be then tested through a usability evaluation followed by design revision in Assignment 4.
 
 ## Part A: Sketches
-Sketch at least **3 (three)** different UIs for the functions you are targeting. These three interfaces should be _dramatically different_ in terms of design directions. For example, they can be with different organizations of what functions on each screen or using a different layout of the icons, widgets, and menus on the screens. If you want, you can also incorporate non-on-screen UIs: physical buttons, gestures through motion sensors, etc.
-
-You need **not** sketch the whole interface. It is not necessary for the sketches to have every function or every function in detail, but there should be enough to show off your general idea. **Be creative!** Draw your idea and label a few of the widgets so we can tell your intent. The goal is to have at least 3 good UIs in *interesting* ways. Sketches should be done on paper with pens and/or pencils (do not use a computer).
+Problem :
+- User did'nt aware Adzan Feature
 
 ### 1. Scan/Photo of Sketches
 ```
@@ -12,41 +10,43 @@ Be sure to label the different versions so you can differentiate them in your di
 If you choose to take a picture of your sketches, please make sure the texts are readable.
 ```
 
-![Scan/Photo of Sketches](https://picsum.photos/400/300/?random)
+![Version1](/photos/1.jpg)
+![Version2](/photos/2.jpg)
+![Version3](/photos/3.jpg)
+
 
 ### 2. Version Differences
 ```
-Please write a paragraph talking about the differences between the versions
+Solution 1 :
+Add ADZAN Icon to set Adzan bellow all icon
+
+Solution 2 :
+Remove Audio Manager Icon and replace it with ADZAN Icon because Audio Manager should be in setting page
+
+Solution 3 :
+Remove Penilaian Icon because it's useless only for rating this app in Play Store and replace it with ADZAN Icon.
 ```
 
 ### 3. Selected Sketch
 ```
-Please write a paragraph telling us about which design you picked for Parts B and C 
-and why you selected it.
+For that problem I prefer the third version. Because it's easier to found Adzan Icon because the position is not to low and not to high
 ```
 
 ### 4. Design Rationale
 ```
-Please write a paragraph expressing what you have learned from the contextual inquiry, 
-and how it is reflected in your design.
+In assignment-1 , I have interview with a user to test this App.
+She didn't aware that there is Adzan Reminder Feature, Because the button is not visible.
+For the rationale of my design, i have added a bigger icon and a proporstional position for Adzan Reminder Feature to this app
 ```
 
 ## Part B: Assumptions
 ### 1. Hardware
 ```
-Please write what are the assumptions for the hardware on which your new design will be implemented, 
-such as: screen size, screen resolution, on touch screen, via physical buttons, 
-using accelerometer/gyroscope, using mouse, keyboard, etc. 
-Please be specific with the required hardware and any other assumptions, 
-like whether the screen is color or black and white, etch.
+Since this is only Android App this App not able to run in other Platrform so, at least 4 inch Android Phone
 ```
 ### 2. Users
 ```
-Please write down the assumptions about your users. 
-What level of experience do you expect? 
-Who familiar with computers/gadget will they be? 
-What ages? 
-Are there any other factors about the users that will influence your design?
+Every Segment of People
 ```
 
 ## Part C: Prototypes
